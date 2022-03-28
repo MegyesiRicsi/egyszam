@@ -1,0 +1,7 @@
+Z:\közep\Egyszamjatek\Egyszamjatek\bin\Debug\Egyszamjatek.exe.config
+Z:\közep\Egyszamjatek\Egyszamjatek\bin\Debug\Egyszamjatek.exe
+Z:\közep\Egyszamjatek\Egyszamjatek\bin\Debug\Egyszamjatek.pdb
+Z:\közep\Egyszamjatek\Egyszamjatek\obj\Debug\Egyszamjatek.csprojAssemblyReference.cache
+Z:\közep\Egyszamjatek\Egyszamjatek\obj\Debug\Egyszamjatek.csproj.CoreCompileInputs.cache
+Z:\közep\Egyszamjatek\Egyszamjatek\obj\Debug\Egyszamjatek.exe
+Z:\közep\Egyszamjatek\Egyszamjatek\obj\Debug\Egyszamjatek.pdb

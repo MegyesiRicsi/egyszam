@@ -1,0 +1,10 @@
+Z:\közep\EgyszamjatekGUI\EgyszamjatekGUI\bin\Debug\EgyszamjatekGUI.exe.config
+Z:\közep\EgyszamjatekGUI\EgyszamjatekGUI\bin\Debug\EgyszamjatekGUI.exe
+Z:\közep\EgyszamjatekGUI\EgyszamjatekGUI\bin\Debug\EgyszamjatekGUI.pdb
+Z:\közep\EgyszamjatekGUI\EgyszamjatekGUI\obj\Debug\EgyszamjatekGUI.csprojAssemblyReference.cache
+Z:\közep\EgyszamjatekGUI\EgyszamjatekGUI\obj\Debug\EgyszamjatekGUI.Form1.resources
+Z:\közep\EgyszamjatekGUI\EgyszamjatekGUI\obj\Debug\EgyszamjatekGUI.Properties.Resources.resources
+Z:\közep\EgyszamjatekGUI\EgyszamjatekGUI\obj\Debug\EgyszamjatekGUI.csproj.GenerateResource.cache
+Z:\közep\EgyszamjatekGUI\EgyszamjatekGUI\obj\Debug\EgyszamjatekGUI.csproj.CoreCompileInputs.cache
+Z:\közep\EgyszamjatekGUI\EgyszamjatekGUI\obj\Debug\EgyszamjatekGUI.exe
+Z:\közep\EgyszamjatekGUI\EgyszamjatekGUI\obj\Debug\EgyszamjatekGUI.pdb
